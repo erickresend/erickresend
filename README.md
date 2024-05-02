@@ -1,6 +1,6 @@
 # 💫 Sobre mim:
 
-Desenvolvedor Android nativo apaixonado por tecnologia
+Desenvolvedor Android nativo
 
 Me considero uma pessoa estudiosa, lógica, e disposta a encarar com dedicação os desafios para crescer, buscando sempre colaborar e agregar a equipe.
 
@@ -22,8 +22,10 @@ Me considero uma pessoa estudiosa, lógica, e disposta a encarar com dedicação
 
 <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/> <img src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white"/>
 <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white"/>
+<img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black"/>
 <img src="https://img.shields.io/badge/Sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=erickresend&theme=default&hide_border=false&include_all_commits=true&count_private=true)<br/>
