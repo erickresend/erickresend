@@ -1,13 +1,9 @@
 # 💫 Sobre mim:
 
-Desenvolvedor Android nativo
+Meu primeiro contato com programação foi há cerca de 1 ano, passei por algumas tecnologias, mas meu foco total nos últimos meses está sendo o desenvolvimento Android com Kotlin. Atualmente trabalho como vendedor, mas todo dia uso meu tempo livre para criar e aperfeiçoar meus aplicativos, sempre buscando novos conhecimentos.
+Estou aberto a oportunidades, garanto agregar a equipe com meu conhecimento e força de vontade. 
 
-Me considero uma pessoa estudiosa, lógica, e disposta a encarar com dedicação os desafios para crescer, buscando sempre colaborar e agregar a equipe.
-
-**Atualmente:** Cursando engenharia de software e em busca da primeira oportunidade de trabalho fixo na área
-
-**Estudando:** Criação de aplicativos android e lançamento da google play store
-
+Meus principais projetos estão fixados, fique a vontade para saber mais.
 
 # 📧 Contato:
 
