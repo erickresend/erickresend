@@ -1,6 +1,6 @@
 # 💫 Sobre mim:
 
-Meu primeiro contato com programação foi há cerca de 1 ano, passei por algumas tecnologias, mas meu foco total nos últimos meses está sendo o desenvolvimento Android com Kotlin. Atualmente trabalho como vendedor, mas todo dia uso meu tempo livre para criar e aperfeiçoar meus aplicativos, sempre buscando novos conhecimentos.
+Meu primeiro contato com programação foi há cerca de 1 ano, passei por algumas tecnologias, mas meu foco total nos últimos meses está sendo o desenvolvimento Android com Kotlin. Atualmente trabalho como vendedor, mas todo dia uso meu tempo livre para criar e aperfeiçoar meus aplicativos, sempre buscando novos conhecimentos.<br>
 Estou aberto a oportunidades, garanto agregar a equipe com meu conhecimento e força de vontade. 
 
 Meus principais projetos estão fixados, fique a vontade para saber mais.
